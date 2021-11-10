@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <!-- Basic -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Site Metas -->
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Cakejoey</title>
+    <!-- slider stylesheet -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css">
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <!-- fonts style -->
+    <link href="https://fonts.googleapis.com/css?family=Lobster%7CPoppins:400,600,700&amp;display=swap"
+      rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet">
+    <!-- responsive style -->
+    <link href="css/responsive.css" rel="stylesheet">
+  </head>
+  <body class="sub_page">
+    <div class="hero_area">
+      <!-- header section strats -->
+      <header class="header_section">
+        <div class="container">
+          <nav class="navbar navbar-expand-lg custom_nav-container "> <img src="images/Logomarca.png"
+              alt="" style="width: 77px; height: 67px;"><a class="navbar-brand"
+              href="index.html"> </a>
+            <nav class="navbar navbar-expand-lg custom_nav-container "> <a class="navbar-brand"
+                href="file:///home/victor/Documentos/Site%20DinDin%20Gourmet/cakejoey-html%20Personalizado/index.html"><span
+                  style="width: 174px;">Dindin Gourmet LF</span> </a>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
+                  <ul class="navbar-nav  ">
+                    <li class="nav-item active"> <br>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
+                <ul class="navbar-nav  ">
+                  <li class="nav-item"> <a class="nav-link" href="about.html">
+                      Sobre nós</a> </li>
+                  <li class="nav-item"> <a class="nav-link" href="product.html">
+                      Produtos </a> </li>
+                  <li class="nav-item active"> <a class="nav-link last_link" href="contact.html">
+                      Contatos </a> </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>
+      <!-- end header section --> </div>
+    <!-- contact section -->
+    <section class="contact_section layout_padding">
+      <div class="container ">
+        <div class="heading_container">
+          <h2> Contate-nos </h2>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-lg-6 mx-auto">
+            <form action="">
+              <div> <input placeholder="Nome" type="text"> </div>
+              <div> <input placeholder="Email" type="email"> </div>
+              <div> <input placeholder="Numero de Telefone" type="text"> </div>
+              <div> <input class="message-box" placeholder="Menssagem" type="text">
+              </div>
+              <div class="d-flex justify-content-center"> <button> ENVIAR </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="contact_items"> <a href=""> </a>
+          <div class="item "><a href=""> </a>
+            <div class="img-box "><a href=""> </a><a href="https://whats.link/dindingourmetlf"><img
+                  src="images/call.png" alt=""> </a></div>
+            <a href="https://whats.link/dindingourmetlf"> </a>
+            <div class="detail-box"><a href="https://whats.link/dindingourmetlf">
+              </a>
+              <p><a href="https://whats.link/dindingourmetlf">(83)9.9661-6001</a></p>
+            </div>
+          </div>
+          <a href=""> </a>
+          <div class="item "><a href="">
+              <div class="img-box "> <img src="images/mail.png" alt=""> </div>
+            </a>
+            <div class="detail-box"><a href=""> </a>
+              <p><a href=""></a><a href="mailto:leticia.silva.andrade.tj@gmail.com">
+                </a><a href="mailto:leticia.silva.andrade.tj@gmail.com">leticia.silva.andrade.tj@gmail.com
+                  </a></p> </div>
+          </div>
+          <a href=""> </a>
+          <div class="item "><a href=""> </a>
+            <div class="img-box "><a href=""> </a><a href="https://goo.gl/maps/LepUAtxsCaeZpC4E7"><img
+                  src="images/location.png" alt=""> </a></div>
+            <a href="https://goo.gl/maps/LepUAtxsCaeZpC4E7"> </a>
+            <div class="detail-box"><a href="https://goo.gl/maps/LepUAtxsCaeZpC4E7">
+              </a>
+              <p><a href="https://goo.gl/maps/LepUAtxsCaeZpC4E7"> Localização</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- end contact section -->
+    <!-- info section -->
+    <section class="info_section layout_padding">
+      <div class="container">
+        <div class="info_social">
+          <div> <a href=""> </a><a href="https://www.facebook.com/dindingourmetlf-108773800920368/?ref=page_internal"><img
+                src="images/fb.png" alt=""></a><a href="https://whats.link/dindingourmetlf"><img
+                src="images/WhatsApp.png" alt=""></a> </div>
+          <div> <a href=""> <br>
+            </a> </div>
+          <div> <a href=""> <br>
+            </a> </div>
+          <div> <a href=""> </a><a href="https://www.instagram.com/dindingourmetlf/"><img
+                src="images/instagram.png" alt=""></a> </div>
+        </div>
+      </div>
+    </section>
+    <!-- end info_section -->
+    <!-- footer section -->
+    <!-- footer section -->
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+  </body>
+</html>
